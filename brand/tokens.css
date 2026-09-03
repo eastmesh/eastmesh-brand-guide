@@ -1,0 +1,48 @@
+:root {
+  --em-ink: #222222;
+  --em-surface: #303030;
+  --em-surface-soft: #343434;
+  --em-text: #e6eaf0;
+  --em-muted: #9aa4b2;
+  --em-green: #36a167;
+  --em-green-light: #267342;
+  --em-green-deep: #224c36;
+  --em-blue: #1e3a5f;
+  --em-blue-electric: #2563eb;
+  --em-cyan: #06b6d4;
+  --em-lime: #b7f21d;
+  --em-white: #ffffff;
+
+  --em-bg: var(--em-ink);
+  --em-panel: var(--em-surface);
+  --em-panel-soft: var(--em-surface-soft);
+  --em-fg: var(--em-text);
+  --em-fg-muted: var(--em-muted);
+  --em-accent: var(--em-green);
+  --em-accent-soft: rgba(54, 161, 103, 0.15);
+  --em-border: rgba(255, 255, 255, 0.08);
+  --em-shadow: 0 10px 30px rgba(0, 0, 0, 0.45);
+  --em-radius-sm: 10px;
+  --em-radius-md: 14px;
+  --em-radius-pill: 999px;
+  --em-space-1: 4px;
+  --em-space-2: 8px;
+  --em-space-3: 16px;
+  --em-space-4: 24px;
+  --em-space-5: 36px;
+  --em-space-6: 48px;
+  --em-font-sans: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --em-font-mono: "JetBrains Mono", "DejaVu Sans Mono", monospace;
+}
+
+body.light {
+  --em-bg: #f4f6f9;
+  --em-panel: #ffffff;
+  --em-panel-soft: #f0f3f7;
+  --em-fg: #1f2937;
+  --em-fg-muted: #4b5563;
+  --em-accent: var(--em-green-light);
+  --em-accent-soft: rgba(47, 143, 78, 0.12);
+  --em-border: rgba(0, 0, 0, 0.08);
+  --em-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}

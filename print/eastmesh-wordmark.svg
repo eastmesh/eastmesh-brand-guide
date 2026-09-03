@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="260" viewBox="0 0 1400 260" role="img" aria-labelledby="title desc">
+  <title id="title">EastMesh wordmark</title>
+  <desc id="desc">eastmesh.au wordmark matching the EastMesh logo colours and lettering treatment.</desc>
+  <defs>
+    <linearGradient id="green" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b7f21d"/>
+      <stop offset="1" stop-color="#36a167"/>
+    </linearGradient>
+  </defs>
+  <g font-family="Inter, DejaVu Sans, Arial, sans-serif" font-weight="700" font-size="190" letter-spacing="-7">
+    <text x="30" y="198" fill="url(#green)" stroke="#123b2a" stroke-width="3" paint-order="stroke">east</text>
+    <rect x="485" y="34" width="650" height="190" rx="8" fill="#0d2d5a" stroke="#1e3a5f" stroke-width="6"/>
+    <text x="515" y="198" fill="#fff">mesh</text>
+    <text x="1160" y="198" fill="#fff" font-size="132" letter-spacing="-5">.au</text>
+  </g>
+</svg>
