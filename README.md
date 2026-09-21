@@ -10,6 +10,9 @@ The reusable visual identity system for [EastMesh](https://eastmesh.au), an Aust
 - **[brand/tokens.json](brand/tokens.json)** — machine-readable design tokens
 - **[assets/](assets/)** — current logo and icon assets
 - **[print/](print/)** — finished print-ready logo and wordmark masters
+- **[design-system-preview.html](design-system-preview.html)** — rendered web design-system preview
+- **[AGENTS.md](AGENTS.md)** — instructions for coding and design agents
+- **[CLAUDE.md](CLAUDE.md)** — Claude-compatible pointer to the canonical agent guidance
 
 ## Identity
 
